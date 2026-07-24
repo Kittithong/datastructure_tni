@@ -21,6 +21,7 @@ public class NumberLinklist {
 		numbers.remove(0);
 		System.out.println("Deleted the first element = " +numbers.traversal());
 		
+		
 		numbers.remove(2);
 		System.out.println("Deleted element index 2 = " +numbers.traversal());
 		
